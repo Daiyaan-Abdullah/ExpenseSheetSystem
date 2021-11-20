@@ -4,7 +4,7 @@
  
  ## what you will need
 
-JDK 1.7 or greater installed with `JAVA_HOME` configured appropriately
+JDK 1.7 or greater installed 
  
  ## Running the app
 
@@ -17,10 +17,10 @@ To run the app:
  1. **Run the App from the command prompt**
 
 	```
-	cd to the folder then type the command: grails run-app, and wait for the responds that it is running on localhost:8080.
+	cd to the folder then type the command: grails run-app.
 	```
 
-App should be accessible via http://localhost:8080 on your local machine
+App should be accessible via http://localhost:8080.
 
 ## Executing unit tests
 
@@ -34,4 +34,4 @@ grails test-app
 
 ## Possible optimisations 
 
-Authentication, authorization, a register page and interceptors can be added to improve that website.
+Authentication and authorization.
